@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: prints all single digit numbers of 
+ * Description: prints all single digit numbers of
  *		base 10 starting from 0
  *
  * Return: Always 0
@@ -11,13 +11,13 @@
 
 int main(void)
 {
-        int i = 48;
+	int i = 48;
 
-        while (i < 58)
-        {
-                putchar(i);
-                i++;
-        }
-        putchar(10);
-        return (0);
+	while (i < 58)
+	{
+		putchar(i);
+		i++;
+	}
+	putchar(10);
+	return (0);
 }
