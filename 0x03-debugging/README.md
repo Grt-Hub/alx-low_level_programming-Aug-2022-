@@ -1,0 +1,3 @@
+
+This directory contains files for the project "0x03. C - Debugging" of ALX SE program...
+
